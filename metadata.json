@@ -1,0 +1,10 @@
+{
+  "name": "OpportunityRadar - Nearby Job & Career Hub",
+  "description": "Discover nearby job openings with real-time location alerts, AI resume analysis, Google Meet interview scheduling, and verified career matching.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
